@@ -1,4 +1,6 @@
 
+[![Aithon's GitHub stats](https://github-readme-stats.vercel.app/apiaithondev=anuraghazra)](https://github.com/anuraghazre/github-readme-stats)
+
  ## 👀 Hello! 
  
  I am Aithon.dev, a random minecraft and java developer who likes to learn new things👆
