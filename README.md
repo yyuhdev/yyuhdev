@@ -1,6 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aithondev&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aithondev)](https://github.com/anuraghazra/github-readme-stats)
 
  ## 👀 Hello! 
  
@@ -9,6 +6,10 @@
  ## ⏳️ Learning
 
  Mysql/MongoDB and NMS
+
+ ## ⚒️ Languages I have used
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aithondev&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
  ## 📌 About me
 
