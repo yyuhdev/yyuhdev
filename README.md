@@ -1,15 +1,15 @@
 
  ## 👀 Hello! 
  
- I am Aithon.dev, a random minecraft and java developer who likes to learn new things👆
+ I am yyuh, a minecraft sys admin and java developer!
 
  ## ⏳️ Learning
 
- Mysql/MongoDB and NMS
+PostGreSQL
 
  ## ⚒️ Languages I have used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aithondev&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyuhdev&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
  ## 📌 About me
 
@@ -17,7 +17,7 @@
 
  ## ✉️ You can find me at
 
- Discord: aithon.dev (https://discord.com/invite/rM99Y4bmzy)
+ Discord: .yyuh (https://discord.com/invite/rM99Y4bmzy)
 
 
 
