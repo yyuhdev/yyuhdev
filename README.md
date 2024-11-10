@@ -7,3 +7,5 @@ Hello World, I am yyuh. I am a 16 year old java developer who's currently making
 
 ### Learning
 PostGreSQL
+
+[![](https://visitcount.itsvg.in/api?id=yyuhdev&label=Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
