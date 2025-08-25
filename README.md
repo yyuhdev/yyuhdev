@@ -16,7 +16,7 @@ I'm a passionate software developer specializing in **Minecraft development** an
 
 ### Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,markdown,php" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,markdown,php,laravel,vuejs,html,css,javascript" />
 </p>
 
 ### Databases & Storage  
