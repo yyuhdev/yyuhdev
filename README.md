@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9379B3&width=435&lines=Fullstack+Developer;Java+Enthusiast;Backend+Engineer;DevOps+%26+Scaling)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=600&size=24&pause=1000&color=9379B3&width=435&lines=Fullstack+Developer;Java+Enthusiast;Backend+Engineer;DevOps+%26+Scaling)](https://git.io/typing-svg)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=1E1E2E&labelColor=F38BA8)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&color=1E1E2E&labelColor=B4BEFE)
