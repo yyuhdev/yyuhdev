@@ -17,10 +17,6 @@
 </div>
 
 <div align="center">
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=yyuhdev&theme=catppuccin_mocha&show_icons=true&hide_border=true&layout=compact" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yyuhdev&theme=catppuccin_mocha&show_icons=true&hide_border=true&include_orgs=true" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyuhdev&theme=catppuccin-mocha&hide_border=true" />
