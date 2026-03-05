@@ -24,7 +24,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   I don't really use GitHub at the moment, check out my <a href="https://gitlab.revived.club/yyuh">GitLab</a> instead
