@@ -23,3 +23,5 @@
 </div>
 
 </div>
+
+I don't really use GitHub at the moment, check out my [GitLab](https://gitlab.revived.club/yyuh) instead
