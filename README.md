@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="img/boykisser.gif" width="200" />
+<br>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=1E1E2E&labelColor=F38BA8)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&color=1E1E2E&labelColor=B4BEFE)
