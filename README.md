@@ -5,15 +5,14 @@
 <br>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=1E1E2E&labelColor=F38BA8)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&color=1E1E2E&labelColor=B4BEFE)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&color=1E1E2E&labelColor=CBA6F7)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&color=1E1E2E&labelColor=F9E2AF)
-![Nuxt](https://img.shields.io/badge/Nuxt.JS-00DC82?style=for-the-badge&logo=nuxt&logoColor=white&color=1E1E2E&labelColor=A6E3A1)
+![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white&color=1E1E2E&labelColor=89B4FA)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&color=1E1E2E&labelColor=A6E3A1)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white&color=1E1E2E&labelColor=94E2D5)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=1E1E2E&labelColor=FAB387)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&color=1E1E2E&labelColor=89B4FA)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&color=1E1E2E&labelColor=94E2D5)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&color=1E1E2E&labelColor=F38BA8)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&color=1E1E2E&labelColor=89B4FA)
+![Talos Linux](https://img.shields.io/badge/Talos_Linux-0F172A?style=for-the-badge&logo=linux&logoColor=white&color=1E1E2E&labelColor=94E2D5)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FC6D26?style=for-the-badge&logo=argo&logoColor=white&color=1E1E2E&labelColor=FAB387)
 
 
 </div>
